@@ -4,6 +4,8 @@ Dashboard de Power BI que analisa vendas, devoluções e margem de uma rede de l
 
 ![print do dashboard](docs/screenshot.png)
 
+[Interagir com o dashboard no navegador](https://app.powerbi.com/view?r=eyJrIjoiNGQyMWI0ZjMtZTEyMy00ZmEyLWFlNTItZjZhODIxMWJhZWMzIiwidCI6IjY2YmRlODI1LWZiM2QtNGM1MC04ODRlLTljODI4OGZlOWMwOSJ9&pageName=6f72ac9d3c679c3e3a2b), sem precisar abrir o Power BI Desktop.
+
 Fiz esse projeto pra treinar o processo inteiro de BI, não só o resultado visual: extração e tratamento dos dados, modelagem do relacionamento entre as tabelas e escrita das medidas DAX, até chegar no dashboard final. Usei como base as aulas da Hashtag Treinamentos, de onde vem o dataset (uma rede fictícia de loja de eletrônicos), mas boa parte da modelagem, das medidas e do design ficou por minha conta.
 
 ## O que tem no dashboard
